@@ -1,7 +1,7 @@
 docker-symfony
 ==============
 
-[![Forked from](https://github.com/eko/docker-symfony)
+Forked from https://github.com/eko/docker-symfony
 
 Slightly chaned the setup, removed the ELK container and added Redis.
 
